@@ -1,3 +1,9 @@
+
+
+<a href="https://sandbox.zenodo.org/badge/latestdoi/541574713"><img src="https://sandbox.zenodo.org/badge/541574713.svg" alt="DOI"></a>
+
+
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/coderefinery/word-count/HEAD)
 
 # Word count example
